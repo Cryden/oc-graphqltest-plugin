@@ -1,0 +1,6 @@
+plugin:
+    name: 'crydesign.fwbackend::lang.plugin.name'
+    description: 'crydesign.fwbackend::lang.plugin.description'
+    author: CRYDEsigN
+    icon: oc-icon-book
+    homepage: ''
